@@ -1,5 +1,5 @@
 # 💫 Hi 👋, I'm Tushar Pardhe
-**A passionate Software Developer || Frontend Developer**
+**A passionate Frontend Developer || Software Developer**
 
 Email Me 👉 ✉️ **tusharpardhe2018@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
