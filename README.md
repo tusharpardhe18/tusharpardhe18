@@ -5,7 +5,6 @@ Email Me 👉 ✉️ **tusharpardhe2018@gmail.com** For Collaboration/Project or
 
 - 🔭 **I’m currently working on: My Portfolio**
 - 🌱 **I’m currently learning: React & C++** 
-- 📫 **How to reach me: tusharpardhe2018@gmail.com**
 - 😄 **Pronouns: He/Him**
 - ⚡ **Fun fact: I Love Tech and Tech Love Me**
 - 🔗 **Live Site**: [tusharkaportfolio.vercel.app](https://tusharkaportfolio.vercel.app/)
