@@ -3,7 +3,7 @@
 
 Email Me 👉 ✉️ **tusharpardhe2018@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
-- 🔭 **I’m currently working on: CollegeHub**
+- 🔭 **I’m currently working on: IntervAI**
 - 🌱 **I’m currently learning: React & C++** 
 - 😄 **Pronouns: He/Him**
 - ⚡ **Fun fact: I Love Tech and Tech Love Me**
@@ -12,8 +12,6 @@ Email Me 👉 ✉️ **tusharpardhe2018@gmail.com** For Collaboration/Project or
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/tu5hhar) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tushar-pardhe) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tusharpardhe2018@gmail.com) 
-
-<!-- Snake Game Repo View -->
 
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
@@ -37,5 +35,3 @@ Email Me 👉 ✉️ **tusharpardhe2018@gmail.com** For Collaboration/Project or
 
 ---
 [![](https://visitcount.itsvg.in/api?id=tusharpardhe18&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
