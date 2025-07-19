@@ -3,7 +3,7 @@
 
 Email Me 👉 ✉️ **tusharpardhe2018@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
-- 🔭 **I’m currently working on: Zen**
+- 🔭 **I’m currently working on: sidechick**
 - 🌱 **I’m currently learning: React & C++** 
 - 😄 **Pronouns: He/Him**
 - ⚡ **Fun fact: I Love Tech and Tech Love Me**
