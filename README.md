@@ -3,7 +3,7 @@
 
 Email Me 👉 ✉️ **tusharpardhe2018@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
-- 🔭 **I’m currently working on: Dev Beats**
+- 🔭 **I’m currently working on: Chatty**
 - 🌱 **I’m currently learning: React & Python** 
 - 😄 **Pronouns: He/Him**
 - ⚡ **Fun fact: I Love Tech and Tech Love Me**
